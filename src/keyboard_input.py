@@ -1,5 +1,4 @@
 from pynput import keyboard
-import time
 
 
 def start_listener():
