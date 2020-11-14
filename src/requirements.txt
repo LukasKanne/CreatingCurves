@@ -1,0 +1,4 @@
+numpy
+pynput
+matplotlib.pyplot
+scipy
