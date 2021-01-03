@@ -19,10 +19,7 @@ def start_listener():
             # Stop listener
             return False
 
-
-
     listener = keyboard.Listener(
         on_press=on_press)
     listener.start()
     return listener
-
