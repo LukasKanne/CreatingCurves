@@ -1,6 +1,5 @@
 # interpolation properties
 
-INTERVAL_SIZE = 10000
 CLOSED_CURVE = True
 SPLINE_ORDER = 3        # has to be between 1 and 5, Recommendation k=3
 
